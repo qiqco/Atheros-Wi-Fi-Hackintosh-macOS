@@ -1,0 +1,2 @@
+# Atheros--Wi-Fi-macOS
+AR9485 / AR9565 / AR9462 / AR9463 / AR9285
