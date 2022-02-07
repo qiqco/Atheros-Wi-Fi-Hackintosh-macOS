@@ -1,5 +1,5 @@
-# Atheros--Wi-Fi-macOS
-AR9485 / AR9565 / AR9462 / AR9463 / AR9285
+# Atheros--Wi-Fi-mac
+注意，他仅仅试用于Big Sur及其以下版本，Monterey还暂不支持、
 
-## There are ways to use it in my blog
+## 使用方法在我的网站
 <a href="https://www.asly.top/archives/17/"> Click to enter <a/>
